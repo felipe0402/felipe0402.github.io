@@ -10,6 +10,9 @@ h3,
 p {
   margin: 0px;
 }
+p {
+  color: #141414;
+}
 
 ul {
   margin: 0px;
@@ -29,6 +32,10 @@ img {
   text-transform: uppercase;
   word-break: break-all;
   max-width: 4ch;
+}
+.links {
+  color: #141414;
+  text-decoration: none;
 }
 
 @media (max-width: 800px) {
